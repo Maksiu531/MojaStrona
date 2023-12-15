@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Piłka Nożna</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+        }
+
+        header {
+            background-color: #333;
+            color: #fff;
+            text-align: center;
+            padding: 1em 0;
+        }
+
+        nav {
+            background-color: #444;
+            color: #fff;
+            text-align: center;
+            padding: 0.5em 0;
+        }
+
+        nav a {
+            color: #fff;
+            text-decoration: none;
+            padding: 0 10px;
+        }
+
+        section {
+            max-width: 800px;
+            margin: 20px auto;
+            padding: 20px;
+            background-color: #fff;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+
+        footer {
+            background-color: #333;
+            color: #fff;
+            text-align: center;
+            padding: 1em 0;
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Piłka Nożna</h1>
+    </header>
+
+    <nav>
+        <a href="#history">Historia</a>
+        <a href="#rules">Zasady</a>
+        <a href="#tournaments">Turnieje</a>
+        <a href="#gallery">Galeria</a>
+    </nav>
+
+    <section id="history">
+        <h2>Historia Piłki Nożnej</h2>
+        <p>Opis historii piłki nożnej:Początków tej dyscypliny, jak i innych odmian futbolu, można doszukiwać się w występujących w różnych cywilizacjach grach z piłką. Najstarsze wzmianki o zabawach i grach przypominających grę w piłkę pochodzą ze starożytnych Chin, Japonii, Grecji i Rzymu (harpastum). Na Wyspach Brytyjskich zwyczaj ten jest nieznanego pochodzenia. Mógł dotrzeć z Celtami, Rzymianami, Duńczykami, czy Normanami. Można prześledzić niesłabnącą popularność futbolu ludowego od najstarszej znanej notatki sporządzonej. Pochodzenie angielskiej nazwy sportu – ‘football’ – również nie jest wyjaśnione. Do dziś tradycyjny futbol ludowy przetrwał w niektórych miejscowościach Zjednoczonego Królestwa, jak np. Royal Shrovetide Football.</p>
+    </section>
+
+    <section id="rules">
+        <h2>Zasady Gry</h2>
+        <p>Opis zasad gry w piłkę nożną:Mecze rozgrywane są na polu gry wyznaczonym w postaci prostokąta o szerokości od 45 do 90 m i długości od 90 do 120 m (przy jednoczesnym zastrzeżeniu, że boisko nie może być kwadratem, dla meczów międzynarodowych od marca 2008 FIFA ustanowiła wymiary boisk (105x68). Dwie krótsze linie nazywają się liniami końcowymi przy czym odcinek między słupkami – linią bramkową, natomiast dwie dłuższe – liniami bocznymi. Po przeciwległych stronach pola gry, na środku linii bramkowych, ustawione są bramki o szerokości między wewnętrznymi krawędziami słupków 7,32 m (8 yd) i wysokości dolnej krawędzi poprzeczki od podłoża 2,44 m (8 ft). Zawody są rozgrywane piłką, która powinna mieć obwód nie mniejszy niż 68 cm i nie większy niż 70 cm, a jej masa powinna wynosić od 410 do 450 g (16 oz). Przy rozpoczęciu zawodów ciśnienie powietrza we wnętrzu piłki musi wynosić od 0,6 do 1,1 atmosfery.</p>
+    </section>
+
+    <section id="tournaments">
+        <h2>Popularne Turnieje</h2>
+        <p>Informacje o najważniejszych turniejach piłkarskich:1.Mistrzostwa Świata: Międzynarodowy turniej piłki nożnej dla reprezentacji zrzeszonych w federacji FIFA. Pierwsza edycja odbyła się w 1930 roku w Urugwaju, a zwycięzcą została reprezentacja gospodarzy. Od tamtej pory turniej odbywa się co 4 lata. Najbliższe Mistrzostwa Świata odbędą się w 2026 roku w Kanadzie, Meksyku i Stanach Zjednoczonych1.
+
+2.Mistrzostwa Europy: Impreza o podobnej randze do Mistrzostw Świata, lecz organizowana na tzw. Starym Kontynencie. Pierwsza edycja odbyła się w 1960 roku, a od 2016 roku o tytuł Mistrza Europy walczy dokładnie 24 ekipy. Najbliższe Mistrzostwa Europy odbędą się w 2024 roku w Niemczech1.
+
+3.Liga Mistrzów UEFA: Turniej klubowy organizowany przez Unię Europejskich Federacji Piłkarskich (UEFA). W turnieju bierze udział 32 drużyny, a zwycięzca otrzymuje tytuł Mistrza Europy w piłce nożnej. Najbliższy finał odbędzie się w maju 2024 roku w Stambule1.
+
+4.Copa America: Turniej piłki nożnej dla reprezentacji narodowych z Ameryki Południowej. Pierwsza edycja odbyła się w 1916 roku, a zwycięzcą została reprezentacja Argentyny. Najbliższe Copa America odbędzie się w 2024 roku w Ekwadorze1.</p>
+    </section>
+
+    <section id="gallery">
+        <h2>Galeria</h2>
+        <p>Galeria zdjęć związanych z piłką nożną można znalezć w wikipedii</p>
+    </section>
+</body>
+</html>
